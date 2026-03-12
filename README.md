@@ -43,7 +43,3 @@ Este material serve como apoio para estudos, revisões rápidas e futuras implem
 📝 Licença
 Este projeto está sob a licença MIT.  
 Sinta-se à vontade para usar e compartilhar os materiais.
-
-
-### 💡 Descrição curta para GitHub
-
